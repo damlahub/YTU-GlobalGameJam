@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e15e33575b905524bae3a8e553b77871
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1355188040391240161, guid: ac030afd75197f84cade4f197e5b1ec9, type: 3}
+  - lung: {instanceID: 0}
+  - lungScenePanel: {instanceID: 0}
+  - brain: {instanceID: 0}
+  - brainScenePanel: {instanceID: 0}
+  - _lives: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
